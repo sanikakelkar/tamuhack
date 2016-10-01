@@ -14,15 +14,12 @@ website.
 {% highlight yaml %}
 title: Hack on GitHub Pages
 description: >
-  This site will get you started hacking with GitHub Pages.
 baseurl: "/tamuhack" # the subpath of your site
 url: "https://sanikakelkar.github.io"
 email: sanikakelkar@tamu.edu
 github_username:  sanikakelkar
 linkedin_username: sanikakelkar
 {% endhighlight %}
-
-
 https://sanikakelkar.github.io/tamuhack
 
 Howdy! I'm Sanika and I'm a sophomore Computer Engineer Major from Houston TX. 
