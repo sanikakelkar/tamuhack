@@ -14,6 +14,7 @@ website.
 {% highlight yaml %}
 title: Hack on GitHub Pages
 description: >
+This site will get you started hacking with GitHub Pages.
 baseurl: "/tamuhack" # the subpath of your site
 url: "https://sanikakelkar.github.io"
 email: sanikakelkar@tamu.edu
