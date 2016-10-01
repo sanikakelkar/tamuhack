@@ -22,9 +22,8 @@ github_username:  sanikakelkar
 linkedin_username: sanikakelkar
 {% endhighlight %}
 
-That's it! You should now have a website of your own.
 
 https://sanikakelkar.github.io/tamuhack
 
-Howdy! I'm Sanika and I'm a sophomore Computer Engineer
+Howdy! I'm Sanika and I'm a sophomore Computer Engineer Major from Houston TX. 
 
